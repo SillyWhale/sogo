@@ -6,7 +6,7 @@ ENV \
   INV_GPGSRV=keys.gnupg.net \
   DEBIAN_FRONTEND=noninteractive \
   DEBIAN_RELEASE=stretch \
-  INV_REPO=http://packages.inverse.ca/SOGo/nightly/4/debian/ \
+  INV_REPO=http://packages.inverse.ca/SOGo/nightly/4/debian/
 
 RUN \
   apt-get update && \
