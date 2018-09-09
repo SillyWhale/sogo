@@ -1,5 +1,5 @@
 FROM debian:stretch
-LABEL maintainer="Vincent FRICOU <vincent@fricouv.eu>"
+LABEL maintainer="SillyWhale <contact@sillywhale.wtf>"
 
 ENV \
   INV_GPGHASH=810273C4 \
